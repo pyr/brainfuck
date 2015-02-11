@@ -38,6 +38,10 @@ This library exports three functions:
 - `exec`: Augments a virtual machine with the result of the next operation.
 - `run`: Parse and execute a program with an initial virtual machine.
 
+## Examples
+
+See the `test` directory for additional examples
+
 ## License
 
 Copyright © 2015 Pierre-Yves Ritschard
