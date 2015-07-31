@@ -1,4 +1,4 @@
-(defproject brainfuck "0.3.1"
+(defproject brainfuck "0.3.2"
   :description "brainfuck interpreter"
   :url "https://github.com/pyr/brainfuck"
   :license {:name "MIT License"
