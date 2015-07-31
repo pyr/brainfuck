@@ -1,5 +1,7 @@
 # brainfuck
 
+[![Build Status](https://secure.travis-ci.org/pyr/brainfuck.png)](http://travis-ci.org/pyr/brainfuck)
+
 A brainfuck interpreter library.
 Brainfuck code is first parsed into a simplistic AST.
 The AST execution continuously augments a virtual machine
